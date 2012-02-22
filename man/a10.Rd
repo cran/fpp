@@ -11,6 +11,8 @@ Total monthly scripts for pharmaceutical products falling under ATC code A10, as
 
 \format{Monthly time series of class \code{ts}.}
 
+\source{Medicare Australia}
+
 \examples{
 plot(a10)
 seasonplot(a10)

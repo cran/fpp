@@ -2,10 +2,8 @@
 \alias{fpp-package}
 \alias{fpp}
 \docType{package}
-\title{
-Data sets for the workshop "Forecasting: principles and practice" by Rob J Hyndman}
-\description{
-All data sets for "Forecasting: principles and practice" workshop, Kandersteg, 20-22 June 2011.
+\title{Data for "Forecasting: principles and practice"}
+\description{All data sets required for the examples and exercises in the book "Forecasting: principles and practice" by Rob J Hyndman and George Athanasopoulos.
 }
 \details{
 \tabular{ll}{

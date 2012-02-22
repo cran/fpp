@@ -11,7 +11,7 @@ Total quarterly beer production in Australia (in megalitres) from 1956:Q1 to 200
 \format{Quarterly time series of class \code{ts}.}
 
 \source{
-Australian Bureau of Statistics.
+Australian Bureau of Statistics. Cat. 8301.0.55.001.
 }
 \examples{
 data(ausbeer)

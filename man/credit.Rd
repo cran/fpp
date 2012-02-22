@@ -19,6 +19,7 @@ A random sample of 500 observations of customers applying for personal loans at 
     \item{\code{time.employed}}{a numeric vector giving the number of months each customer has been with their current employer.}
   }
 }
+
 \examples{
 data(credit)
 }
