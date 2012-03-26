@@ -7,7 +7,7 @@ International vistors to Australia
 \description{
 Total international visitors to Australia. 1980-2010. (millions)
 }
-\usage{data(ausair)}
+\usage{data(austa)}
 \format{Annual time series of class \code{ts}.}
 
 \source{
