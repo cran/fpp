@@ -5,7 +5,7 @@
 Monthly cortecosteroid drug sales in Australia from 1992 to 2008.
 }
 \description{
-Total monthly scripts for pharmaceutical products falling under ATC code H02, as recorded by the Australian Health Insurance Commission.
+Total monthly scripts for pharmaceutical products falling under ATC code H02, as recorded by the Australian Health Insurance Commission. Measured in millions of scripts.
 }
 \usage{data(h02)}
 
