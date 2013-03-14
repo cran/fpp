@@ -1,3 +1,7 @@
+Version 0.5 (14 March 2013)
+  * added vn, debitcards, departures and cafe data sets.
+  * missing value removed from end of usmelec.
+  
 Version 0.4 (30 April 2012)
   * euretail data added.
   
